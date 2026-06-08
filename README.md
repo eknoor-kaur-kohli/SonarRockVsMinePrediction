@@ -1,4 +1,4 @@
-# SONAR Rock vs Mine Detection using Machine Learning
+
 # SONAR Rock vs Mine Detection using Machine Learning
 
 ## Project Overview
