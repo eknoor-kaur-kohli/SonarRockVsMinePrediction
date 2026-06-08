@@ -162,13 +162,13 @@ sonar-rock-vs-mine-detection/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/sonar-rock-vs-mine-detection.git
+git clone https://github.com/eknoor-kaur-kohli/SonarRockVsMinePrediction.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd sonar-rock-vs-mine-detection
+cd SonarRockVsMinePrediction
 ```
 
 Install dependencies:
@@ -180,7 +180,7 @@ pip install -r requirements.txt
 Open the notebook:
 
 ```bash
-Sonar_Rock_vs_Mine_Detection.ipynb
+RockvsMine.ipynb
 ```
 
 and run all cells.
